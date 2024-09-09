@@ -1,0 +1,5 @@
+require('conf_plug.colors')
+require('conf_plug.treesitter')
+require('conf_plug.harpoon')
+require('conf_plug.undotree')
+require('conf_plug.lsp')
